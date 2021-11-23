@@ -1,9 +1,9 @@
-#Description
+# Description
 
 This notebook builds a classification model using sklearn for classifying customers with good and bad credit.
 Data description can be found at https://www.openml.org/d/31
 
-##Contents
+## Contents
 1. EDA - analysis of categorical and continous features
 2. Models - Logistic Regression, SVM, Random Forest and Gradient Boosting
 3. Model tuning and probability calibrations
