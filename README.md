@@ -14,7 +14,7 @@ References below were utilized for putting together this guide and learning mode
 
 I'd stongly suggest to read the references below in the mentioned order to learn and understand how to build ML models.
 
-References:
+<b>References:</b>
 1. Probability & Statistics for Engineers & SCientists - Walpole, Mayers, Mayers and Ye
 2. Learning Python - Mark Lutz
 3. Introduction to Computation and Programming Using Python - John V Guttag
