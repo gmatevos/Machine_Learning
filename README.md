@@ -10,7 +10,9 @@ All the material was put together from the personal learning experience and cove
 4. Modeling
 5. Evaluations and improvements
 
-References below were utilized for putting together this guide and learning modeling procedures.  Strongly suggested to read the books.
+References below were utilized for putting together this guide and learning modeling procedures.  
+
+I'd stongly suggest to read the references below in the mentioned order to learn and understand how to build ML models.
 
 References:
 1. Probability & Statistics for Engineers & SCientists - Walpole, Mayers, Mayers and Ye
