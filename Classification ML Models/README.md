@@ -1,6 +1,6 @@
 # Description
 
-This notebook builds a classification model using sklearn for classifying customers with good and bad credit.
+This notebook builds a classification model using sklearn for classifying customers with good and bad credit.  
 Data description can be found at https://www.openml.org/d/31
 
 ## Contents
