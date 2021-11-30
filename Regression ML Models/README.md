@@ -6,4 +6,4 @@ There are 2 notebooks that build models for predicting car prices on craiglist p
 ## Data
 Data can be downloaded from Kaggle:  https://www.kaggle.com/austinreese/craigslist-carstrucks-data
 
-P.S. convergence errors occured during grid search. The covergence errors resulted in lower scores, therefore those warnings can be ignored.
+<b>P.S. convergence errors occured during grid search. The covergence errors resulted in lower scores, therefore those warnings can be ignored.</b>
