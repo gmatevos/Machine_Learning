@@ -1,5 +1,7 @@
 # Machine_Learning
-This repository contains a multitude of examples on how to build machine learning models using sklearn.
+This repository contains a multitude of examples on how to build machine learning models using sklearn.  
+
+Each model built in this repository was built and tuned personally.
 
 All the material was put together from the personal learning experience and covers the following topics:
 1. EDA
