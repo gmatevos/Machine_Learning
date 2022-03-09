@@ -15,13 +15,18 @@ During my Petroleum Engineering days I was always dealing with data analytics, b
 
 I started organizing the materials and putting the pieces of the puzzle together during the learning process :thinking:.  I'm hoping people that are facing the same challanges can utilize this material to answer some of their own questions.  Don't be afraid to start, the biggest hurdle is usually self-doubt.
 
-
-All the material was put together from the personal learning experience and covers the following topics:
+<ins>Topics covered within this repo:</ins>
 1. EDA
 2. Preprocessing
 3. Feature selection / extraction
 4. Modeling
 5. Evaluations and improvements
+
+
+<b>P.S.</b> There are sections with repetitive code that can be easily placed inside a function.  Since repetition is the best path to learning (cross-validation would concur) this was done intentionally. 
+
+
+
 
 ML Cheat Sheet was put together to summarize the modeling workflow and differing techniques for building a model.  
 
