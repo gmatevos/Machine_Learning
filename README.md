@@ -28,8 +28,12 @@ I started organizing the materials and putting the pieces of the puzzle together
 
 # Repository Contents
 Below is a brief description of what's in each folder.  More detailed information can be found within each project.
-1. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
-2. 
+_Folders
+1. [Craigslist Car Pricing](https://github.com/gmatevos/Machine_Learning/tree/main/Craigslist_Car_Price_Predictions) - regression model that predicts car posting price.
+2. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
+3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.  Sourced from A. Muller lectures (see below)
+4. [US Population Income](https://github.com/gmatevos/Machine_Learning/tree/main/US_Population_Income_Classifications) - classification model for prediction people making >$50k.
+5. [Wine Ratings](https://github.com/gmatevos/Machine_Learning/tree/main/Wine_Rating_Predictions) - predicting wine ratings from free text reviews.
 
 
 ML Cheat Sheet was put together to summarize the modeling workflow and differing techniques for building a model.  
