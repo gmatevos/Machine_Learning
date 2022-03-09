@@ -11,6 +11,7 @@
 1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
 2. [Repository Contents](https://github.com/gmatevos/Machine_Learning#repository-contents)
 3. [Getting Started](https://github.com/gmatevos/Machine_Learning#getting-started)
+4. [References](https://github.com/gmatevos/Machine_Learning#references)
 
 
 ## About the Project
@@ -35,7 +36,7 @@ Below is a brief description of what's in each folder.  More detailed informatio
 <b>Folders</b>
 1. [Craigslist Car Pricing](https://github.com/gmatevos/Machine_Learning/tree/main/Craigslist_Car_Price_Predictions) - regression model that predicts car posting price.
 2. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
-3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.  Sourced from A. Muller lectures (see below)
+3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.[^lectures]
 4. [US Population Income](https://github.com/gmatevos/Machine_Learning/tree/main/US_Population_Income_Classifications) - classification model for prediction people making >$50k.
 5. [Wine Ratings](https://github.com/gmatevos/Machine_Learning/tree/main/Wine_Rating_Predictions) - predicting wine ratings from free text reviews.
 
@@ -60,9 +61,11 @@ Libraries can be installed with pip through terminal/command line
 ```
 pip install numpy
 ```
+If all mentioned packages are installed, you don't need anything else, time to download the notebooks and get going! :rocket:
 
-<b>References:</b>
-1. Probability & Statistics for Engineers & SCientists - Walpole, Mayers, Mayers and Ye
+## References
+I've referenced the following books to learn statistics, python and ML algorithms.  They should suffice to get started with ML, with a rare supplemental Google searches.
+1. Probability & Statistics for Engineers & Scientists - Walpole, Mayers, Mayers and Ye
 2. Learning Python - Mark Lutz
 3. Introduction to Computation and Programming Using Python - John V Guttag
 4. Applied Predictive Modeling - Max Kuhn, Kjell Johnson
