@@ -9,7 +9,8 @@
 
 # Table of Contents
 1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
-2. [Repository Contents](https://github.com/gmatevos/Machine_Learning/blob/main/README.md#repository-contents)
+2. [Repository Contents](https://github.com/gmatevos/Machine_Learning#repository-contents)
+3. [Getting Started](https://github.com/gmatevos/Machine_Learning#getting-started)
 
 # About the Project
 During my Petroleum Engineering days I was always dealing with data analytics, but at some point I ran out of tools from my toolbox.  I decided to learn data science on my own time and started with reading books referenced at the end.  The biggest challenge for me was lack of structured examples that capture modeling process from start to finish :raised_eyebrow:.
@@ -29,21 +30,21 @@ I started organizing the materials and putting the pieces of the puzzle together
 # Repository Contents
 Below is a brief description of what's in each folder.  More detailed information can be found within each project.
 
-<b>Folders<b>
-  1. [Craigslist Car Pricing](https://github.com/gmatevos/Machine_Learning/tree/main/Craigslist_Car_Price_Predictions) - regression model that predicts car posting price.
-  2. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
-  3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.  Sourced from A. Muller lectures (see below)
-  4. [US Population Income](https://github.com/gmatevos/Machine_Learning/tree/main/US_Population_Income_Classifications) - classification model for prediction people making >$50k.
-  5. [Wine Ratings](https://github.com/gmatevos/Machine_Learning/tree/main/Wine_Rating_Predictions) - predicting wine ratings from free text reviews.
+<b>Folders</b>
+1. [Craigslist Car Pricing](https://github.com/gmatevos/Machine_Learning/tree/main/Craigslist_Car_Price_Predictions) - regression model that predicts car posting price.
+2. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
+3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.  Sourced from A. Muller lectures (see below)
+4. [US Population Income](https://github.com/gmatevos/Machine_Learning/tree/main/US_Population_Income_Classifications) - classification model for prediction people making >$50k.
+5. [Wine Ratings](https://github.com/gmatevos/Machine_Learning/tree/main/Wine_Rating_Predictions) - predicting wine ratings from free text reviews.
 
 <b>Files</b>
+1. [ML Cheat Sheet](https://github.com/gmatevos/Machine_Learning/blob/main/ML%20Cheat%20Sheet.docx) - summary of models, theory and assumptions.
 
+# Getting Started
+Datasets are not attached, but could be downloaded by following links mentioned within each project.
 
-
-ML Cheat Sheet was put together to summarize the modeling workflow and differing techniques for building a model.  
-
-References below were utilized for putting together this guide and learning modeling procedures.  
-I'd stongly suggest reading the references below in the mentioned order to learn and understand how to build ML models.
+## Prerequsites
+* [Jupyter Notebook](https://jupyter.org)
 
 <b>References:</b>
 1. Probability & Statistics for Engineers & SCientists - Walpole, Mayers, Mayers and Ye
