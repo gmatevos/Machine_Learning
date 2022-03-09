@@ -58,7 +58,7 @@ Datasets are not attached, but could be downloaded by following links mentioned 
 
 Libraries can be installed with pip through terminal/command line
 ```
-pip install sklearn
+pip install numpy
 ```
 
 <b>References:</b>
