@@ -5,10 +5,6 @@
 [![LinkedIn][linkedin-shield]][linkedin-url]
 
 <!-- PROJECT LOGO -->
-<div align="center">
-    <img src="images/ML.jpeg" alt="Logo" width="640" height="400">
-</div>
-
 ![Image Test](images/ML.jpeg)
 
 # Machine_Learning
