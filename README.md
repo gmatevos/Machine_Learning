@@ -9,6 +9,7 @@
 
 # Table of Contents
 1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
+2. Repository Contents
 
 # About the Project
 During my Petroleum Engineering days I was always dealing with data analytics, but at some point I ran out of tools from my toolbox.  I decided to learn data science on my own time and started with reading books referenced at the end.  The biggest challenge for me was lack of structured examples that capture modeling process from start to finish :raised_eyebrow:.
@@ -23,9 +24,12 @@ I started organizing the materials and putting the pieces of the puzzle together
 5. Evaluations and improvements
 
 
-<b>P.S.</b> There are sections with repetitive code that can be easily placed inside a function.  Since repetition is the best path to learning (cross-validation would concur) this was done intentionally. 
+<b>P.S. There are sections with repetitive code that can be easily placed inside a function.  Since repetition is the best path to learning (cross-validation would concur) this was done intentionally.</b>
 
-
+# Repository Contents
+Below is a brief description of what's in each folder.  More detailed information can be found within each project.
+1. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
+2. 
 
 
 ML Cheat Sheet was put together to summarize the modeling workflow and differing techniques for building a model.  
