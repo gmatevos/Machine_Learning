@@ -36,7 +36,7 @@ Below is a brief description of what's in each folder.  More detailed informatio
 <b>Folders</b>
 1. [Craigslist Car Pricing](https://github.com/gmatevos/Machine_Learning/tree/main/Craigslist_Car_Price_Predictions) - regression model that predicts car posting price.
 2. [Credit Score Classification](https://github.com/gmatevos/Machine_Learning/tree/main/Credit_Score_Classification) - classification of people with good/bad credit.
-3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.[^lectures]
+3. [Maunaloa Volcano CO2 Levels](https://github.com/gmatevos/Machine_Learning/tree/main/Maunaloa_Volcano_CO2_Levels_Forecast) - time series forecasting.  Sourced from A. Muller [lectures](https://github.com/gmatevos/Machine_Learning#references)
 4. [US Population Income](https://github.com/gmatevos/Machine_Learning/tree/main/US_Population_Income_Classifications) - classification model for prediction people making >$50k.
 5. [Wine Ratings](https://github.com/gmatevos/Machine_Learning/tree/main/Wine_Rating_Predictions) - predicting wine ratings from free text reviews.
 
