@@ -7,12 +7,12 @@
 <!-- PROJECT LOGO -->
 ![Image Test](images/ML.jpeg)
 
-# Table of Contents
+## Table of Contents
 1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
 2. [Repository Contents](https://github.com/gmatevos/Machine_Learning#repository-contents)
 3. [Getting Started](https://github.com/gmatevos/Machine_Learning#getting-started)
 
-# About the Project
+## About the Project
 During my Petroleum Engineering days I was always dealing with data analytics, but at some point I ran out of tools from my toolbox.  I decided to learn data science on my own time and started with reading books referenced at the end.  The biggest challenge for me was lack of structured examples that capture modeling process from start to finish :raised_eyebrow:.
 
 I started organizing the materials and putting the pieces of the puzzle together during the learning process :thinking:.  I'm hoping people that are facing the same challanges can utilize this material to answer some of their own questions.  Don't be afraid to start, the biggest hurdle is usually self-doubt.
@@ -27,7 +27,7 @@ I started organizing the materials and putting the pieces of the puzzle together
 
 <b>P.S. There are sections with repetitive code that can be easily placed inside a function.  Since repetition is the best path to learning (cross-validation would concur) this was done intentionally.</b>
 
-# Repository Contents
+## Repository Contents
 Below is a brief description of what's in each folder.  More detailed information can be found within each project.
 
 <b>Folders</b>
@@ -40,10 +40,10 @@ Below is a brief description of what's in each folder.  More detailed informatio
 <b>Files</b>
 1. [ML Cheat Sheet](https://github.com/gmatevos/Machine_Learning/blob/main/ML%20Cheat%20Sheet.docx) - summary of models, theory and assumptions.
 
-# Getting Started
+## Getting Started
 Datasets are not attached, but could be downloaded by following links mentioned within each project.
 
-## Prerequsites
+### Prerequsites
 * [Jupyter Notebook](https://jupyter.org)
 
 <b>References:</b>
