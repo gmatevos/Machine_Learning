@@ -7,12 +7,14 @@
 <!-- PROJECT LOGO -->
 ![Image Test](images/ML.jpeg)
 
-# About The Project
+# Table of Contents
+1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
+
+# About the Project
 During my Petroleum Engineering days I was always dealing with data analytics, but at some point I ran out of tools from my toolbox.  I decided to learn data science on my own time and started with reading books referenced at the end.  The biggest challenge for me was lack of structured examples that capture modeling process from start to finish :raised_eyebrow:.
 
-I started organizing the materials and putting the pieces of the puzzle together during the learning process.  Now I'm hoping people that are facing the same challanges can utilize this material to answer some of their own questions.  I'm hoping this repository will be useful and informative for people on their own ML path.
+I started organizing the materials and putting the pieces of the puzzle together during the learning process :thinking:.  I'm hoping people that are facing the same challanges can utilize this material to answer some of their own questions.  Don't be afraid to start, the biggest hurdle is usually self-doubt.
 
-This repository contains a multitude of examples on how to build machine learning models using sklearn.
 
 All the material was put together from the personal learning experience and covers the following topics:
 1. EDA
