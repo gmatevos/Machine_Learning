@@ -7,7 +7,7 @@
 <!-- PROJECT LOGO -->
 ![Image Test](images/ML.jpeg)
 
-<details><summary><b> Table of Contents </b></summary>
+<details><summary><b> Table of Contents </b></summary>  
 1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
 2. [Repository Contents](https://github.com/gmatevos/Machine_Learning#repository-contents)
 3. [Getting Started](https://github.com/gmatevos/Machine_Learning#getting-started)
