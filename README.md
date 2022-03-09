@@ -6,7 +6,7 @@
 
 <!-- PROJECT LOGO -->
 <div align="center">
-    <img src="images/ML.jpeg" alt="Logo" width="80" height="80">
+    <img src="images/ML.jpeg" alt="Logo" width="640" height="400">
 </div>
 
 # Machine_Learning
