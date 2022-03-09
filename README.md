@@ -1,3 +1,6 @@
+[linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
+[linkedin-url]: https://www.linkedin.com/in/george-matevosyants-621b9651/
+[![LinkedIn][linkedin-shield]][linkedin-url]
 # Machine_Learning
 This repository contains a multitude of examples on how to build machine learning models using sklearn.  
 
