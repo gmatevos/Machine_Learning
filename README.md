@@ -26,7 +26,7 @@ I started organizing the materials and putting the pieces of the puzzle together
 5. Evaluations and improvements
 
 
-<b>P.S. There are sections with repetitive code that can be easily placed inside a function.  Since repetition is the best path to learning (cross-validation would concur) this was done intentionally.</b>
+<b>P.S. There are sections with repetitive code that can be easily placed inside a function.  Since repetition is the best path to learning (cross-validation would concur), this was done intentionally.</b>
 
 
 ## Repository Contents
