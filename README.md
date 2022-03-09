@@ -47,11 +47,17 @@ Below is a brief description of what's in each folder.  More detailed informatio
 Datasets are not attached, but could be downloaded by following links mentioned within each project.  Below are libraries and IDE used in each project.
 
 ### Prerequsites
+<ins>IDE</ins>
 * [Jupyter Notebook](https://jupyter.org)
+
+<ins>Libraries</ins>
 * Sklearn
 * Numpy
 * Matplotlib
 * Pandas
+
+Libraries can be installed with pip through terminal/command line
+```pip install sklearn```
 
 <b>References:</b>
 1. Probability & Statistics for Engineers & SCientists - Walpole, Mayers, Mayers and Ye
