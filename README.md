@@ -7,11 +7,11 @@
 <!-- PROJECT LOGO -->
 ![Image Test](images/ML.jpeg)
 
-## Table of Contents
+<details><summary><b> Table of Contents </b></summary>
 1. [About the Project](https://github.com/gmatevos/Machine_Learning#about-the-project)
 2. [Repository Contents](https://github.com/gmatevos/Machine_Learning#repository-contents)
 3. [Getting Started](https://github.com/gmatevos/Machine_Learning#getting-started)
-
+</details>
 
 ## About the Project
 During my Petroleum Engineering days I was always dealing with data analytics, but at some point I ran out of tools from my toolbox.  I decided to learn data science on my own time and started with reading books referenced at the end.  The biggest challenge for me was lack of structured examples that capture modeling process from start to finish :raised_eyebrow:.
