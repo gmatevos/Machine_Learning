@@ -57,7 +57,9 @@ Datasets are not attached, but could be downloaded by following links mentioned 
 * Pandas
 
 Libraries can be installed with pip through terminal/command line
-```pip install sklearn```
+```
+pip install sklearn
+```
 
 <b>References:</b>
 1. Probability & Statistics for Engineers & SCientists - Walpole, Mayers, Mayers and Ye
