@@ -1,4 +1,5 @@
 ![cc](../images/creditscore.jpg)
+
 <i>Sourced: Money, Getty Images</i>
 
 ## Description
