@@ -56,6 +56,12 @@ Datasets are not attached, but could be downloaded by following links mentioned 
 * Numpy
 * Matplotlib
 * Pandas
+* Scipy
+* Statsmodels
+* Category_encoders
+* Seaborn
+* Math
+* Skopt
 
 Libraries can be installed with pip through terminal/command line
 ```
