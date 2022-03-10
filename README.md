@@ -64,10 +64,10 @@ pip install numpy
 If all mentioned packages are installed, you don't need anything else, time to download the notebooks and get going! :rocket:
 
 ## References
-I've referenced the following books to learn statistics, python and ML algorithms.  They should suffice to get started with ML, with a rare supplemental Google searches.
-1. Probability & Statistics for Engineers & Scientists - Walpole, Mayers, Mayers and Ye
-2. Learning Python - Mark Lutz
-3. Introduction to Computation and Programming Using Python - John V Guttag
-4. Applied Predictive Modeling - Max Kuhn, Kjell Johnson
-5. Introduction to Machine Learning with Python, A Guide for Data Scientists - Andreas Muller, Sarah Guido
-6. Andreas Muller Columbia Data Science Institute lecture series - https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM
+I've referenced the following books to learn statistics, python and ML algorithms.  They should suffice to get started with ML, with rare supplemental Google searches.
+1. [Probability & Statistics for Engineers & Scientists](https://www.amazon.com/Probability-Statistics-Engineers-Scientists-Update/dp/0134115856)
+2. [Learning Python](https://www.amazon.com/Learning-Python-5th-Mark-Lutz/dp/1449355730)
+3. [Introduction to Computation and Programming Using Python](https://www.amazon.com/Introduction-Computation-Programming-Using-Python/dp/0262529629)
+4. [Applied Predictive Modeling](https://www.amazon.com/Applied-Predictive-Modeling-Max-Kuhn/dp/1461468485)
+5. [Introduction to Machine Learning with Python, A Guide for Data Scientists](https://www.amazon.com/Introduction-Machine-Learning-Python-Scientists/dp/1449369413)
+6. [Andreas Muller Columbia Data Science Institute Lecture Series](https://www.youtube.com/playlist?list=PL_pVmAaAnxIRnSw6wiCpSvshFyCREZmlM)
