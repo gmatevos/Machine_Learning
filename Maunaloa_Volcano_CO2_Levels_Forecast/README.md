@@ -1,3 +1,5 @@
-# Time Series Model Summary
+![volcano](../images/volcano.jpg)
 
-The notebook builds a time series forecast on volcano CO2 levels over time.  The data is pulled through a URL within the code
+## Description
+
+This notebook builds a time series forecast model for predicting CO2 levels in Maunaloa volcano.  It's mainly a walk through A. Muller time series lecture.
