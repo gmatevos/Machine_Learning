@@ -17,7 +17,7 @@
 ## About the Project
 During my Petroleum Engineering days I was always dealing with data analytics, but at some point I ran out of tools from my toolbox.  I decided to learn data science on my own time and started with reading books referenced at the end.  The biggest challenge for me was lack of structured examples that capture modeling process from start to finish :raised_eyebrow:.
 
-I started organizing the materials and putting the pieces of the puzzle together during the learning process :thinking:.  I'm hoping people that are facing the same challanges can utilize this material to answer some of their own questions.  Don't be afraid to start, the biggest hurdle is usually self-doubt.
+I started organizing the material and putting the pieces of the puzzle together during the learning process :thinking:.  I'm hoping people that are facing the same challanges can utilize this repository to answer some of their own questions.  Don't be afraid to start, the biggest hurdle is usually self-doubt.
 
 <ins>Topics covered within this repo:</ins>
 1. EDA
